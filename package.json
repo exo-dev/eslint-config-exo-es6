@@ -1,0 +1,26 @@
+{
+  "name": "@exo-dev/eslint-config-exo-es6",
+  "version": "1.0.0",
+  "description": "Eslint configuration for exo projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exo-dev/eslint-config-exo-es6.git"
+  },
+  "keywords": [
+    "eslint",
+    "exo"
+  ],
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "author": "EXO-DEV",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exo-dev/eslint-config-exo-es6/issues"
+  },
+  "homepage": "https://github.com/exo-dev/eslint-config-exo-es6#readme"
+}
